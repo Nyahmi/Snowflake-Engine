@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/snowflake-engine
+snowflake-engine.so
+snowflake-engine.dylib
+snowflake-engine.dll
+snowflake-engine.a
+snowflake-engine.lib
+snowflake-engine-test-*
+*.exe
+*.o
+*.obj
+*.lst

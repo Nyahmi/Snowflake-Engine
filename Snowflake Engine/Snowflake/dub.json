@@ -1,0 +1,15 @@
+{
+	"authors": [
+		"Ahmenuri"
+	],
+	"copyright": "Copyright © 2020, Ahmenuri",
+	"dependencies": {
+		"bindbc-opengl": "~>0.12.0",
+		"bindbc-sdl": "~>0.16.0",
+		"dagon": "~>0.10.2",
+		"erupted": "~>2.0.54"
+	},
+	"description": "The snowflake engine is amazing",
+	"license": "proprietary",
+	"name": "snowflake-engine"
+}
